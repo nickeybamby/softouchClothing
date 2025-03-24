@@ -246,7 +246,7 @@ nav {
   max-width: var(--max-width-900);
   margin: 4rem auto;
   display: grid;
-  grid-template-columns: repeat(4, 1fr);
+  grid-template-columns: repeat(3, 1fr);
   gap: 2rem;
 }
 
